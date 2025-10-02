@@ -43,11 +43,10 @@ Ferramenta simples e didática para apoiar **apresentações de estatística e e
 ## 🧰 Tecnologias
 - **HTML5 / CSS3**
 - **JavaScript (ES6+)**
-- *(Opcional)* **Angular**: se o projeto for em Angular, as instruções abaixo contemplam ambos os casos (estático vs. Angular).*
-
+- **Angular**
 ---
 
-## 🗂️ Estrutura do Projeto (sugerida)
+## 🗂️ Estrutura do Projeto 
 ```
 calculadora-economia-energia/
 ├─ index.html            # Entrada principal (projeto estático)
